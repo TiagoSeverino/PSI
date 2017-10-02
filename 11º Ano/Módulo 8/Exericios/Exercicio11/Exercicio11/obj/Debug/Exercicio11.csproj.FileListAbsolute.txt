@@ -1,0 +1,9 @@
+C:\Users\tiago\Dropbox\by Tiago Severino\C Sharp\PTGPSI\Modulo 8\Exercicio11\Exercicio11\bin\Debug\Exercicio11.exe.config
+C:\Users\tiago\Dropbox\by Tiago Severino\C Sharp\PTGPSI\Modulo 8\Exercicio11\Exercicio11\bin\Debug\Exercicio11.exe
+C:\Users\tiago\Dropbox\by Tiago Severino\C Sharp\PTGPSI\Modulo 8\Exercicio11\Exercicio11\bin\Debug\Exercicio11.pdb
+C:\Users\tiago\Dropbox\by Tiago Severino\C Sharp\PTGPSI\Modulo 8\Exercicio11\Exercicio11\obj\Debug\Exercicio11.csprojResolveAssemblyReference.cache
+C:\Users\tiago\Dropbox\by Tiago Severino\C Sharp\PTGPSI\Modulo 8\Exercicio11\Exercicio11\obj\Debug\Exercicio11.Form1.resources
+C:\Users\tiago\Dropbox\by Tiago Severino\C Sharp\PTGPSI\Modulo 8\Exercicio11\Exercicio11\obj\Debug\Exercicio11.Properties.Resources.resources
+C:\Users\tiago\Dropbox\by Tiago Severino\C Sharp\PTGPSI\Modulo 8\Exercicio11\Exercicio11\obj\Debug\Exercicio11.csproj.GenerateResource.Cache
+C:\Users\tiago\Dropbox\by Tiago Severino\C Sharp\PTGPSI\Modulo 8\Exercicio11\Exercicio11\obj\Debug\Exercicio11.exe
+C:\Users\tiago\Dropbox\by Tiago Severino\C Sharp\PTGPSI\Modulo 8\Exercicio11\Exercicio11\obj\Debug\Exercicio11.pdb

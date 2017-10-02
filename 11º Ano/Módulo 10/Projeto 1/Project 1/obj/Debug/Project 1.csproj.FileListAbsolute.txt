@@ -1,0 +1,24 @@
+D:\tiago\Documents\by Tiago Severino\Programação\C#\Modulo 10\Project 1\Project 1\bin\Debug\Project 1.exe.config
+D:\tiago\Documents\by Tiago Severino\Programação\C#\Modulo 10\Project 1\Project 1\obj\Debug\Project 1.csprojResolveAssemblyReference.cache
+D:\tiago\Documents\by Tiago Severino\Programação\C#\Modulo 10\Project 1\Project 1\obj\Debug\Project_1.Form1.resources
+D:\tiago\Documents\by Tiago Severino\Programação\C#\Modulo 10\Project 1\Project 1\obj\Debug\Project_1.Properties.Resources.resources
+D:\tiago\Documents\by Tiago Severino\Programação\C#\Modulo 10\Project 1\Project 1\obj\Debug\Project 1.csproj.GenerateResource.Cache
+D:\tiago\Documents\by Tiago Severino\Programação\C#\Modulo 10\Project 1\Project 1\bin\Debug\Project 1.exe
+D:\tiago\Documents\by Tiago Severino\Programação\C#\Modulo 10\Project 1\Project 1\bin\Debug\Project 1.pdb
+D:\tiago\Documents\by Tiago Severino\Programação\C#\Modulo 10\Project 1\Project 1\obj\Debug\Project 1.exe
+D:\tiago\Documents\by Tiago Severino\Programação\C#\Modulo 10\Project 1\Project 1\obj\Debug\Project 1.pdb
+D:\tiago\Downloads\Project 1\Project 1\obj\Debug\Project 1.csprojResolveAssemblyReference.cache
+D:\tiago\Downloads\Project 1\Project 1\obj\Debug\Project_1.AboutBox1.resources
+D:\tiago\Downloads\Project 1\Project 1\obj\Debug\Project_1.Form1.resources
+D:\tiago\Downloads\Project 1\Project 1\obj\Debug\Project_1.FormMenu.resources
+D:\tiago\Downloads\Project 1\Project 1\obj\Debug\Project_1.Properties.Resources.resources
+D:\tiago\Downloads\Project 1\Project 1\obj\Debug\Project 1.csproj.GenerateResource.Cache
+D:\tiago\Downloads\Project 1\Project 1\obj\Debug\Project 1.exe
+D:\tiago\Downloads\Project 1\Project 1\obj\Debug\Project 1.pdb
+D:\tiago\Downloads\Project 1\Project 1\bin\Debug\Project 1.exe.config
+D:\tiago\Downloads\Project 1\Project 1\bin\Debug\Project 1.exe
+D:\tiago\Downloads\Project 1\Project 1\bin\Debug\Project 1.pdb
+D:\tiago\Downloads\Project 1\Project 1\obj\Debug\Project_1.FormRanking.resources
+D:\tiago\Documents\by Tiago Severino\Programação\C#\Modulo 10\Project 1\Project 1\obj\Debug\Project_1.AboutBox1.resources
+D:\tiago\Documents\by Tiago Severino\Programação\C#\Modulo 10\Project 1\Project 1\obj\Debug\Project_1.FormMenu.resources
+D:\tiago\Documents\by Tiago Severino\Programação\C#\Modulo 10\Project 1\Project 1\obj\Debug\Project_1.FormRanking.resources

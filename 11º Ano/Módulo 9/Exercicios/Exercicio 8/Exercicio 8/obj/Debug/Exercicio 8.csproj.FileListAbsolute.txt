@@ -1,0 +1,9 @@
+C:\Users\Tiago\Documents\by Tiago Severino\Programação\C#\Modulo 9\Exercicio 8\Exercicio 8\bin\Debug\Exercicio 8.exe.config
+C:\Users\Tiago\Documents\by Tiago Severino\Programação\C#\Modulo 9\Exercicio 8\Exercicio 8\bin\Debug\Exercicio 8.exe
+C:\Users\Tiago\Documents\by Tiago Severino\Programação\C#\Modulo 9\Exercicio 8\Exercicio 8\bin\Debug\Exercicio 8.pdb
+C:\Users\Tiago\Documents\by Tiago Severino\Programação\C#\Modulo 9\Exercicio 8\Exercicio 8\obj\Debug\Exercicio 8.csprojResolveAssemblyReference.cache
+C:\Users\Tiago\Documents\by Tiago Severino\Programação\C#\Modulo 9\Exercicio 8\Exercicio 8\obj\Debug\Exercicio_8.Form1.resources
+C:\Users\Tiago\Documents\by Tiago Severino\Programação\C#\Modulo 9\Exercicio 8\Exercicio 8\obj\Debug\Exercicio_8.Properties.Resources.resources
+C:\Users\Tiago\Documents\by Tiago Severino\Programação\C#\Modulo 9\Exercicio 8\Exercicio 8\obj\Debug\Exercicio 8.csproj.GenerateResource.Cache
+C:\Users\Tiago\Documents\by Tiago Severino\Programação\C#\Modulo 9\Exercicio 8\Exercicio 8\obj\Debug\Exercicio 8.exe
+C:\Users\Tiago\Documents\by Tiago Severino\Programação\C#\Modulo 9\Exercicio 8\Exercicio 8\obj\Debug\Exercicio 8.pdb

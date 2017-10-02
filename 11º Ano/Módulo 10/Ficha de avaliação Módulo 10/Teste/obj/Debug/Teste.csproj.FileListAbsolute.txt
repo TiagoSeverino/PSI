@@ -1,0 +1,6 @@
+D:\Users\tiago\Documents\Visual Studio 2017\Projects\Teste\Teste\bin\Debug\Teste.exe.config
+D:\Users\tiago\Documents\Visual Studio 2017\Projects\Teste\Teste\bin\Debug\Teste.exe
+D:\Users\tiago\Documents\Visual Studio 2017\Projects\Teste\Teste\bin\Debug\Teste.pdb
+D:\Users\tiago\Documents\Visual Studio 2017\Projects\Teste\Teste\obj\Debug\Teste.csprojResolveAssemblyReference.cache
+D:\Users\tiago\Documents\Visual Studio 2017\Projects\Teste\Teste\obj\Debug\Teste.exe
+D:\Users\tiago\Documents\Visual Studio 2017\Projects\Teste\Teste\obj\Debug\Teste.pdb

@@ -1,0 +1,47 @@
+﻿<Window x:Class="Projeto_Final.MainMenu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Projeto_Final"
+        mc:Ignorable="d"
+        Title="Menu Principal" Height="457.565" Width="1060.2">
+    <Grid>
+        <TextBox x:Name="nomeMutuário" HorizontalAlignment="Left" Height="25" Margin="129,13,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="142"/>
+        <TextBox x:Name="nomeBiblioteca" HorizontalAlignment="Left" Height="25" Margin="129,43,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="142"/>
+        <TextBox x:Name="nomeEditor" HorizontalAlignment="Left" Height="25" Margin="129,74,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="142"/>
+        <TextBox x:Name="titulo" HorizontalAlignment="Left" Height="25" Margin="129,108,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="142"/>
+        <TextBox x:Name="nomeRealizador" HorizontalAlignment="Left" Height="25" Margin="129,144,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="142"/>
+        <TextBox x:Name="anoPublicação" HorizontalAlignment="Left" Height="25" Margin="129,174,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="142"/>
+        <RadioButton x:Name="rbDisponivel" Content="Disponivel" HorizontalAlignment="Left" Margin="129,209,0,0" VerticalAlignment="Top" GroupName="disponibilidade"/>
+        <RadioButton x:Name="rbIndisponivel" Content="Indisponivel" HorizontalAlignment="Left" Margin="129,229,0,0" VerticalAlignment="Top" GroupName="disponibilidade"/>
+        <DatePicker x:Name="dpDataReaçização" HorizontalAlignment="Left" Margin="129,250,0,0" VerticalAlignment="Top" Width="142"/>
+        <DatePicker x:Name="dpDataPublicação" HorizontalAlignment="Left" Margin="129,281,0,0" VerticalAlignment="Top" Width="142"/>
+        <Label Content="Nome Mutuário" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="26,10,0,0"/>
+        <Label Content="Nome Biblioteca" HorizontalAlignment="Left" Margin="26,42,0,0" VerticalAlignment="Top"/>
+        <Label Content="Nome Editor" HorizontalAlignment="Left" Margin="26,73,0,0" VerticalAlignment="Top"/>
+        <Label Content="Titulo" HorizontalAlignment="Left" Margin="26,104,0,0" VerticalAlignment="Top"/>
+        <Label Content="Nome Realizador" HorizontalAlignment="Left" Margin="26,143,0,0" VerticalAlignment="Top"/>
+        <Label Content="Ano Publicação" HorizontalAlignment="Left" Margin="26,169,0,0" VerticalAlignment="Top"/>
+        <Label Content="Data" HorizontalAlignment="Left" Margin="31,248,0,0" VerticalAlignment="Top"/>
+        <Label Content="Data Publicação" HorizontalAlignment="Left" Margin="26,279,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="rbJornalPeriodico" Content="Jornal periódico" HorizontalAlignment="Left" Margin="31,321,0,0" VerticalAlignment="Top" GroupName="obras"/>
+        <RadioButton x:Name="rbRevista" Content="Revista" HorizontalAlignment="Left" Margin="31,341,0,0" VerticalAlignment="Top" GroupName="obras"/>
+        <RadioButton x:Name="rbLivro" Content="Livro" HorizontalAlignment="Left" Margin="31,361,0,0" VerticalAlignment="Top" GroupName="obras"/>
+        <RadioButton x:Name="rbVideo" Content="Vídeo" HorizontalAlignment="Left" Margin="31,381,0,0" VerticalAlignment="Top" GroupName="obras"/>
+        <Button x:Name="btnAdicionar" Content="Adicionar" HorizontalAlignment="Left" Margin="150,318,0,0" VerticalAlignment="Top" Width="121" Click="Button_Click"/>
+        <Button x:Name="btnProcurar" Content="Procurar" HorizontalAlignment="Left" Margin="150,341,0,0" VerticalAlignment="Top" Width="121" Click="Button_Click_1"/>
+        <Button x:Name="btnExibir" Content="Exibir" HorizontalAlignment="Left" Margin="150,366,0,0" VerticalAlignment="Top" Width="121" Click="Button_Click_2"/>
+        <Button x:Name="btnExcluir" Content="Excluir" HorizontalAlignment="Left" Margin="150,391,0,0" VerticalAlignment="Top" Width="121" Click="Button_Click_3"/>
+        <ListView x:Name="listView" HorizontalAlignment="Left" Height="398" Margin="276,13,0,0" VerticalAlignment="Top" Width="766">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Disponivel" Width="95" DisplayMemberBinding="{Binding IsDisponivel}" />
+                    <GridViewColumn Header="Mutuário" Width="185" DisplayMemberBinding="{Binding NomeMutuário}" />
+                    <GridViewColumn Header="Data" Width="190" DisplayMemberBinding="{Binding Data}" />
+                    <GridViewColumn Header="Biblioteca" Width="190" DisplayMemberBinding="{Binding NomeBiblioteca}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>

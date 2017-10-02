@@ -1,0 +1,6 @@
+C:\Users\tiago\Dropbox\by Tiago Severino\C Sharp\PTGPSI\Modulo 8\Exercicio 6\Exercicio 6\bin\Debug\Exercicio 6.exe.config
+C:\Users\tiago\Dropbox\by Tiago Severino\C Sharp\PTGPSI\Modulo 8\Exercicio 6\Exercicio 6\bin\Debug\Exercicio 6.exe
+C:\Users\tiago\Dropbox\by Tiago Severino\C Sharp\PTGPSI\Modulo 8\Exercicio 6\Exercicio 6\bin\Debug\Exercicio 6.pdb
+C:\Users\tiago\Dropbox\by Tiago Severino\C Sharp\PTGPSI\Modulo 8\Exercicio 6\Exercicio 6\obj\Debug\Exercicio 6.csprojResolveAssemblyReference.cache
+C:\Users\tiago\Dropbox\by Tiago Severino\C Sharp\PTGPSI\Modulo 8\Exercicio 6\Exercicio 6\obj\Debug\Exercicio 6.exe
+C:\Users\tiago\Dropbox\by Tiago Severino\C Sharp\PTGPSI\Modulo 8\Exercicio 6\Exercicio 6\obj\Debug\Exercicio 6.pdb

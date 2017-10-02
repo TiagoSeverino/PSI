@@ -1,0 +1,6 @@
+C:\Users\Tiago Severino\Documents\by Tiago Severino\Programação\C#\Modulo 9\Controlo Remoto\Controlo Remoto\bin\Debug\Controlo Remoto.exe.config
+C:\Users\Tiago Severino\Documents\by Tiago Severino\Programação\C#\Modulo 9\Controlo Remoto\Controlo Remoto\bin\Debug\Controlo Remoto.exe
+C:\Users\Tiago Severino\Documents\by Tiago Severino\Programação\C#\Modulo 9\Controlo Remoto\Controlo Remoto\bin\Debug\Controlo Remoto.pdb
+C:\Users\Tiago Severino\Documents\by Tiago Severino\Programação\C#\Modulo 9\Controlo Remoto\Controlo Remoto\obj\Debug\Controlo Remoto.exe
+C:\Users\Tiago Severino\Documents\by Tiago Severino\Programação\C#\Modulo 9\Controlo Remoto\Controlo Remoto\obj\Debug\Controlo Remoto.pdb
+C:\Users\Tiago Severino\Documents\by Tiago Severino\Programação\C#\Modulo 9\Controlo Remoto\Controlo Remoto\obj\Debug\Controlo Remoto.csprojResolveAssemblyReference.cache

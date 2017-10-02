@@ -1,0 +1,6 @@
+D:\Tiago\Documents\by Tiago Severino\Programação\C#\Modulo 10\Exercicio 2\Exercicio 2\bin\Debug\Exercicio 2.exe.config
+D:\Tiago\Documents\by Tiago Severino\Programação\C#\Modulo 10\Exercicio 2\Exercicio 2\bin\Debug\Exercicio 2.exe
+D:\Tiago\Documents\by Tiago Severino\Programação\C#\Modulo 10\Exercicio 2\Exercicio 2\bin\Debug\Exercicio 2.pdb
+D:\Tiago\Documents\by Tiago Severino\Programação\C#\Modulo 10\Exercicio 2\Exercicio 2\obj\Debug\Exercicio 2.csprojResolveAssemblyReference.cache
+D:\Tiago\Documents\by Tiago Severino\Programação\C#\Modulo 10\Exercicio 2\Exercicio 2\obj\Debug\Exercicio 2.exe
+D:\Tiago\Documents\by Tiago Severino\Programação\C#\Modulo 10\Exercicio 2\Exercicio 2\obj\Debug\Exercicio 2.pdb

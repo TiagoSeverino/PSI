@@ -1,0 +1,5 @@
+C:\Users\tiago\Dropbox\by Tiago Severino\C Sharp\PTGPSI\Modulo 8\Exercicio10\Exercicio10\bin\Debug\Exercicio10.exe.config
+C:\Users\tiago\Dropbox\by Tiago Severino\C Sharp\PTGPSI\Modulo 8\Exercicio10\Exercicio10\bin\Debug\Exercicio10.exe
+C:\Users\tiago\Dropbox\by Tiago Severino\C Sharp\PTGPSI\Modulo 8\Exercicio10\Exercicio10\bin\Debug\Exercicio10.pdb
+C:\Users\tiago\Dropbox\by Tiago Severino\C Sharp\PTGPSI\Modulo 8\Exercicio10\Exercicio10\obj\Debug\Exercicio10.exe
+C:\Users\tiago\Dropbox\by Tiago Severino\C Sharp\PTGPSI\Modulo 8\Exercicio10\Exercicio10\obj\Debug\Exercicio10.pdb

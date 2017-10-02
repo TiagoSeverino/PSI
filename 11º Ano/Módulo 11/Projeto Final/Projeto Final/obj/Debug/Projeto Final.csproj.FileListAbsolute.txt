@@ -1,0 +1,16 @@
+c:\users\tiago\documents\visual studio 2017\Projects\Projeto Final\Projeto Final\bin\Debug\Projeto Final.exe.config
+c:\users\tiago\documents\visual studio 2017\Projects\Projeto Final\Projeto Final\bin\Debug\Projeto Final.exe
+c:\users\tiago\documents\visual studio 2017\Projects\Projeto Final\Projeto Final\bin\Debug\Projeto Final.pdb
+c:\users\tiago\documents\visual studio 2017\Projects\Projeto Final\Projeto Final\obj\Debug\Projeto Final.csprojResolveAssemblyReference.cache
+c:\users\tiago\documents\visual studio 2017\Projects\Projeto Final\Projeto Final\obj\Debug\MainWindow.g.cs
+c:\users\tiago\documents\visual studio 2017\Projects\Projeto Final\Projeto Final\obj\Debug\App.g.cs
+c:\users\tiago\documents\visual studio 2017\Projects\Projeto Final\Projeto Final\obj\Debug\Projeto Final_MarkupCompile.cache
+c:\users\tiago\documents\visual studio 2017\Projects\Projeto Final\Projeto Final\obj\Debug\Projeto Final_MarkupCompile.lref
+c:\users\tiago\documents\visual studio 2017\Projects\Projeto Final\Projeto Final\obj\Debug\MainWindow.baml
+c:\users\tiago\documents\visual studio 2017\Projects\Projeto Final\Projeto Final\obj\Debug\Projeto Final.g.resources
+c:\users\tiago\documents\visual studio 2017\Projects\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.Properties.Resources.resources
+c:\users\tiago\documents\visual studio 2017\Projects\Projeto Final\Projeto Final\obj\Debug\Projeto Final.csproj.GenerateResource.Cache
+c:\users\tiago\documents\visual studio 2017\Projects\Projeto Final\Projeto Final\obj\Debug\Projeto Final.exe
+c:\users\tiago\documents\visual studio 2017\Projects\Projeto Final\Projeto Final\obj\Debug\Projeto Final.pdb
+c:\users\tiago\documents\visual studio 2017\Projects\Projeto Final\Projeto Final\obj\Debug\MainMenu.g.cs
+c:\users\tiago\documents\visual studio 2017\Projects\Projeto Final\Projeto Final\obj\Debug\MainMenu.baml

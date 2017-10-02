@@ -1,0 +1,6 @@
+c:\users\tiago\source\repos\Teste V2\Teste V2\obj\Debug\Teste V2.csproj.CoreCompileInputs.cache
+c:\users\tiago\source\repos\Teste V2\Teste V2\bin\Debug\Teste V2.exe.config
+c:\users\tiago\source\repos\Teste V2\Teste V2\bin\Debug\Teste V2.exe
+c:\users\tiago\source\repos\Teste V2\Teste V2\bin\Debug\Teste V2.pdb
+c:\users\tiago\source\repos\Teste V2\Teste V2\obj\Debug\Teste V2.exe
+c:\users\tiago\source\repos\Teste V2\Teste V2\obj\Debug\Teste V2.pdb

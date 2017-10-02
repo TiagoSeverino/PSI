@@ -1,0 +1,9 @@
+C:\Users\tiago\Dropbox\by Tiago Severino\C Sharp\PTGPSI\Modulo 8\test_Mod8\test_Mod8\bin\Debug\test_Mod8.exe.config
+C:\Users\tiago\Dropbox\by Tiago Severino\C Sharp\PTGPSI\Modulo 8\test_Mod8\test_Mod8\bin\Debug\test_Mod8.exe
+C:\Users\tiago\Dropbox\by Tiago Severino\C Sharp\PTGPSI\Modulo 8\test_Mod8\test_Mod8\bin\Debug\test_Mod8.pdb
+C:\Users\tiago\Dropbox\by Tiago Severino\C Sharp\PTGPSI\Modulo 8\test_Mod8\test_Mod8\obj\Debug\test_Mod8.csprojResolveAssemblyReference.cache
+C:\Users\tiago\Dropbox\by Tiago Severino\C Sharp\PTGPSI\Modulo 8\test_Mod8\test_Mod8\obj\Debug\test_Mod8.Form1.resources
+C:\Users\tiago\Dropbox\by Tiago Severino\C Sharp\PTGPSI\Modulo 8\test_Mod8\test_Mod8\obj\Debug\test_Mod8.Properties.Resources.resources
+C:\Users\tiago\Dropbox\by Tiago Severino\C Sharp\PTGPSI\Modulo 8\test_Mod8\test_Mod8\obj\Debug\test_Mod8.csproj.GenerateResource.Cache
+C:\Users\tiago\Dropbox\by Tiago Severino\C Sharp\PTGPSI\Modulo 8\test_Mod8\test_Mod8\obj\Debug\test_Mod8.exe
+C:\Users\tiago\Dropbox\by Tiago Severino\C Sharp\PTGPSI\Modulo 8\test_Mod8\test_Mod8\obj\Debug\test_Mod8.pdb

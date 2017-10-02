@@ -1,0 +1,18 @@
+D:\tiago\Documents\by Tiago Severino\Programação\C#\Modulo 10\Project 1\Projeto 2\Projeto 2\bin\Debug\Projeto 2.exe.config
+D:\tiago\Documents\by Tiago Severino\Programação\C#\Modulo 10\Project 1\Projeto 2\Projeto 2\bin\Debug\Projeto 2.exe
+D:\tiago\Documents\by Tiago Severino\Programação\C#\Modulo 10\Project 1\Projeto 2\Projeto 2\bin\Debug\Projeto 2.pdb
+D:\tiago\Documents\by Tiago Severino\Programação\C#\Modulo 10\Project 1\Projeto 2\Projeto 2\obj\Debug\Projeto_2.FormMenu.resources
+D:\tiago\Documents\by Tiago Severino\Programação\C#\Modulo 10\Project 1\Projeto 2\Projeto 2\obj\Debug\Projeto_2.Properties.Resources.resources
+D:\tiago\Documents\by Tiago Severino\Programação\C#\Modulo 10\Project 1\Projeto 2\Projeto 2\obj\Debug\Projeto 2.csproj.GenerateResource.Cache
+D:\tiago\Documents\by Tiago Severino\Programação\C#\Modulo 10\Project 1\Projeto 2\Projeto 2\obj\Debug\Projeto 2.exe
+D:\tiago\Documents\by Tiago Severino\Programação\C#\Modulo 10\Project 1\Projeto 2\Projeto 2\obj\Debug\Projeto 2.pdb
+D:\tiago\Documents\by Tiago Severino\Programação\C#\Modulo 10\Project 1\Projeto 2\Projeto 2\obj\Debug\Projeto_2.FormSobre.resources
+D:\tiago\Documents\by Tiago Severino\Programação\C#\Modulo 10\Project 1\Projeto 2\Projeto 2\obj\Debug\Projeto_2.FormGestãoProfessores.resources
+D:\tiago\Documents\by Tiago Severino\Programação\C#\Modulo 10\Project 1\Projeto 2\Projeto 2\obj\Debug\Projeto_2.FormGestãoProjetores.resources
+D:\tiago\Documents\by Tiago Severino\Programação\C#\Modulo 10\Project 1\Projeto 2\Projeto 2\obj\Debug\Projeto_2.FormGestãoProjetores.dje.resources
+D:\tiago\Documents\by Tiago Severino\Programação\C#\Modulo 10\Project 1\Projeto 2\Projeto 2\bin\Debug\dje\Projeto 2.resources.dll
+D:\tiago\Documents\by Tiago Severino\Programação\C#\Modulo 10\Project 1\Projeto 2\Projeto 2\obj\Debug\dje\Projeto 2.resources.dll
+D:\tiago\Documents\by Tiago Severino\Programação\C#\Modulo 10\Project 1\Projeto 2\Projeto 2\obj\Debug\Projeto 2.csprojResolveAssemblyReference.cache
+D:\tiago\Documents\by Tiago Severino\Programação\C#\Modulo 10\Project 1\Projeto 2\Projeto 2\obj\Debug\Projeto_2.FormgestãoRequisições.resources
+D:\tiago\Documents\by Tiago Severino\Programação\C#\Modulo 10\Project 1\Projeto 2\Projeto 2\bin\Debug\Newtonsoft.Json.dll
+D:\tiago\Documents\by Tiago Severino\Programação\C#\Modulo 10\Project 1\Projeto 2\Projeto 2\bin\Debug\Newtonsoft.Json.xml

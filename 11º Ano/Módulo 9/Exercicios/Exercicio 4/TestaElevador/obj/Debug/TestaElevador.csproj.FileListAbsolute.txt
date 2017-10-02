@@ -1,0 +1,6 @@
+C:\Users\Tiago Severino\Documents\by Tiago Severino\Programação\C#\Modulo 9\TestaElevador\TestaElevador\bin\Debug\TestaElevador.exe.config
+C:\Users\Tiago Severino\Documents\by Tiago Severino\Programação\C#\Modulo 9\TestaElevador\TestaElevador\bin\Debug\TestaElevador.exe
+C:\Users\Tiago Severino\Documents\by Tiago Severino\Programação\C#\Modulo 9\TestaElevador\TestaElevador\bin\Debug\TestaElevador.pdb
+C:\Users\Tiago Severino\Documents\by Tiago Severino\Programação\C#\Modulo 9\TestaElevador\TestaElevador\obj\Debug\TestaElevador.csprojResolveAssemblyReference.cache
+C:\Users\Tiago Severino\Documents\by Tiago Severino\Programação\C#\Modulo 9\TestaElevador\TestaElevador\obj\Debug\TestaElevador.exe
+C:\Users\Tiago Severino\Documents\by Tiago Severino\Programação\C#\Modulo 9\TestaElevador\TestaElevador\obj\Debug\TestaElevador.pdb

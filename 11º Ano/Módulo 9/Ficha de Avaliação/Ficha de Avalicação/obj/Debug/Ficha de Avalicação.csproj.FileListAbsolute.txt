@@ -1,0 +1,6 @@
+D:\Tiago\Documents\by Tiago Severino\Programação\C#\Modulo 9\Ficha de Avalicação\Ficha de Avalicação\bin\Debug\Ficha de Avalicação.exe.config
+D:\Tiago\Documents\by Tiago Severino\Programação\C#\Modulo 9\Ficha de Avalicação\Ficha de Avalicação\bin\Debug\Ficha de Avalicação.exe
+D:\Tiago\Documents\by Tiago Severino\Programação\C#\Modulo 9\Ficha de Avalicação\Ficha de Avalicação\bin\Debug\Ficha de Avalicação.pdb
+D:\Tiago\Documents\by Tiago Severino\Programação\C#\Modulo 9\Ficha de Avalicação\Ficha de Avalicação\obj\Debug\Ficha de Avalicação.csprojResolveAssemblyReference.cache
+D:\Tiago\Documents\by Tiago Severino\Programação\C#\Modulo 9\Ficha de Avalicação\Ficha de Avalicação\obj\Debug\Ficha de Avalicação.exe
+D:\Tiago\Documents\by Tiago Severino\Programação\C#\Modulo 9\Ficha de Avalicação\Ficha de Avalicação\obj\Debug\Ficha de Avalicação.pdb

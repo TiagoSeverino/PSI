@@ -1,0 +1,7 @@
+c:\users\tiago\source\repos\Exercicio 5\Exercicio 5\bin\Debug\Exercicio 5.exe.config
+c:\users\tiago\source\repos\Exercicio 5\Exercicio 5\bin\Debug\Exercicio 5.exe
+c:\users\tiago\source\repos\Exercicio 5\Exercicio 5\bin\Debug\Exercicio 5.pdb
+c:\users\tiago\source\repos\Exercicio 5\Exercicio 5\obj\Debug\Exercicio 5.csprojResolveAssemblyReference.cache
+c:\users\tiago\source\repos\Exercicio 5\Exercicio 5\obj\Debug\Exercicio 5.csproj.CoreCompileInputs.cache
+c:\users\tiago\source\repos\Exercicio 5\Exercicio 5\obj\Debug\Exercicio 5.exe
+c:\users\tiago\source\repos\Exercicio 5\Exercicio 5\obj\Debug\Exercicio 5.pdb

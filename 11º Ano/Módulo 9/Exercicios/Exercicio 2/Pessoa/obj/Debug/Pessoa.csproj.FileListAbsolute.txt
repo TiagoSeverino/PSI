@@ -1,0 +1,6 @@
+C:\Users\Tiago Severino\Documents\by Tiago Severino\Programação\C#\Modulo 9\Pessoa\Pessoa\bin\Debug\Pessoa.exe.config
+C:\Users\Tiago Severino\Documents\by Tiago Severino\Programação\C#\Modulo 9\Pessoa\Pessoa\bin\Debug\Pessoa.exe
+C:\Users\Tiago Severino\Documents\by Tiago Severino\Programação\C#\Modulo 9\Pessoa\Pessoa\bin\Debug\Pessoa.pdb
+C:\Users\Tiago Severino\Documents\by Tiago Severino\Programação\C#\Modulo 9\Pessoa\Pessoa\obj\Debug\Pessoa.csprojResolveAssemblyReference.cache
+C:\Users\Tiago Severino\Documents\by Tiago Severino\Programação\C#\Modulo 9\Pessoa\Pessoa\obj\Debug\Pessoa.exe
+C:\Users\Tiago Severino\Documents\by Tiago Severino\Programação\C#\Modulo 9\Pessoa\Pessoa\obj\Debug\Pessoa.pdb

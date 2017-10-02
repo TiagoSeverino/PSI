@@ -1,0 +1,6 @@
+C:\Users\tiago\Dropbox\by Tiago Severino\C Sharp\PTGPSI\Modulo 8\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\tiago\Dropbox\by Tiago Severino\C Sharp\PTGPSI\Modulo 8\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\tiago\Dropbox\by Tiago Severino\C Sharp\PTGPSI\Modulo 8\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\tiago\Dropbox\by Tiago Severino\C Sharp\PTGPSI\Modulo 8\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\tiago\Dropbox\by Tiago Severino\C Sharp\PTGPSI\Modulo 8\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\tiago\Dropbox\by Tiago Severino\C Sharp\PTGPSI\Modulo 8\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

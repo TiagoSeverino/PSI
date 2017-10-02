@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project 1", "Project 1\Project 1.csproj", "{DC4A79DF-77FF-475F-A54D-4832F68074B1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DF4A5116-2AC4-4CC4-8B09-5F8760891287}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Filtro\Filtro\bin\Debug\nacionalidades.txt = ..\..\..\Filtro\Filtro\bin\Debug\nacionalidades.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC4A79DF-77FF-475F-A54D-4832F68074B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC4A79DF-77FF-475F-A54D-4832F68074B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC4A79DF-77FF-475F-A54D-4832F68074B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC4A79DF-77FF-475F-A54D-4832F68074B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
