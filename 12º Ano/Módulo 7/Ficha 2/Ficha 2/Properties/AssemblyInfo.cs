@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Ficha 2")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Notepad")]
+[assembly: AssemblyDescription("Um bloco de notas simples que mostra o conteúdo de um ficheiro de texto, edita o conteúdo do ficheiro, grava o ficheiro de texto e vai ter nota máxima. \nPermite também cria novos ficheiros de texto.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Ficha 2")]
+[assembly: AssemblyCompany("Tiago Severino")]
+[assembly: AssemblyProduct("Ficha 2 - Notepad")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

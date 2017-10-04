@@ -13,10 +13,13 @@ namespace Ficha_2
 {
     public partial class Notepad : Form
     {
+
         bool Guardado;
-        string DiretórioFicheiro;
+        bool FoiRetrocedido;
         string NomeFicheiro;
+        FontDialog fontDialog;
         List<string> Histórico;
+        string DiretórioFicheiro;
         OpenFileDialog openFileDialog;
         SaveFileDialog saveFileDialog;
 
@@ -38,13 +41,16 @@ namespace Ficha_2
                 Filter = "Texto (*.txt)|*.txt|Todos os ficheiros (*.*)|*.*",
                 RestoreDirectory = true
             };
+            fontDialog = new FontDialog();
 
             Histórico = new List<string>();
 
+            FoiRetrocedido = false;
             Guardado = true;
             NomeFicheiro = "Novo Documento";
 
             AtualizarTitulo();
+            Histórico.Add(richTextBox.Text);
         }
 
         #region Eventos
@@ -76,22 +82,22 @@ namespace Ficha_2
 
         private void retrocederToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            Retroceder();
         }
 
         private void cortarToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            Cortar();
         }
 
         private void copiarToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            Copiar();
         }
 
         private void colarToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            Colar();
         }
 
         private void eliminarToolStripMenuItem_Click(object sender, EventArgs e)
@@ -101,15 +107,15 @@ namespace Ficha_2
 
         private void fonteToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            MudarFonte();
         }
 
         private void sobreNotepadToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            MostarSobre();
         }
 
-        private void richTextBox1_TextChanged(object sender, EventArgs e)
+        private void richTextBox_TextChanged(object sender, EventArgs e)
         {
             TextoMudado();
         }
@@ -132,7 +138,7 @@ namespace Ficha_2
             if (!ConfirmaNovoDocumento())
                 return;
 
-            richTextBox1.Text = "";
+            richTextBox.Text = "";
             NomeFicheiro = "Novo Documento";
             DiretórioFicheiro = null;
             Guardado = true;
@@ -146,7 +152,7 @@ namespace Ficha_2
             {
                 try
                 {
-                    richTextBox1.Text = File.ReadAllText(openFileDialog.FileName);
+                    richTextBox.Text = File.ReadAllText(openFileDialog.FileName);
 
                     DiretórioFicheiro = openFileDialog.FileName;
                     string[] DiretóriosFicheiro = DiretórioFicheiro.Split('\\'); ;
@@ -173,7 +179,7 @@ namespace Ficha_2
 
             try
             {
-                File.WriteAllText(DiretórioFicheiro, richTextBox1.Text);
+                File.WriteAllText(DiretórioFicheiro, richTextBox.Text);
                 Guardado = true;
                 AtualizarTitulo();
             }
@@ -190,7 +196,7 @@ namespace Ficha_2
                 try
                 {
                     DiretórioFicheiro = saveFileDialog.FileName;
-                    File.WriteAllText(DiretórioFicheiro, richTextBox1.Text);
+                    File.WriteAllText(DiretórioFicheiro, richTextBox.Text);
                     Guardado = true;
                     AtualizarTitulo();
                 }
@@ -209,9 +215,52 @@ namespace Ficha_2
             Environment.Exit(0);
         }
 
+        private void Retroceder()
+        {
+            if (Histórico.Count > 1)
+            {
+                Histórico.RemoveAt(Histórico.Count - 1);
+                FoiRetrocedido = true;
+                richTextBox.Text = Histórico[Histórico.Count - 1];
+            }
+        }
+
+        private void Cortar()
+        {
+            richTextBox.Cut();
+        }
+
+        private void Copiar()
+        {
+            richTextBox.Copy();
+        }
+
+        private void Colar()
+        {
+            richTextBox.Paste();
+        }
+
+        private void MudarFonte()
+        {
+            if (fontDialog.ShowDialog() == DialogResult.OK)
+            {
+                richTextBox.Font = fontDialog.Font;
+            }
+        }
+
+        private void MostarSobre()
+        {
+            FormSobre sobre = new FormSobre();
+            sobre.ShowDialog();
+            
+        }
+
         private void TextoMudado()
         {
-            Histórico.Add(richTextBox1.Text);
+            if (!FoiRetrocedido)
+                Histórico.Add(richTextBox.Text);
+
+            FoiRetrocedido = false;
             Guardado = false;
 
             AtualizarTitulo();
