@@ -1,2 +1,2 @@
-# Módulo Ficha 2 - notepad
-Envia para avaliação o programa que implementa um bloco de notas simples que mostra o conteúdo de um ficheiro de texto, edita o conteúdo do ficheiro e grava o ficheiro de texto. Permite também cria novos ficheiros de texto.
+# MÃ³dulo 7 Ficha 2 - notepad
+Envia para avaliaÃ§Ã£o o programa que implementa um bloco de notas simples que mostra o conteÃºdo de um ficheiro de texto, edita o conteÃºdo do ficheiro e grava o ficheiro de texto. Permite tambÃ©m cria novos ficheiros de texto.
