@@ -1,3 +1,3 @@
-# Módulo Ficha 1
+# MÃ³dulo 7 Ficha 1
 
-Envia o exercício que permitia ler o conteúdo de um ficheiro de texto para uma richtextbox.
+Envia o exercÃ­cio que permitia ler o conteÃºdo de um ficheiro de texto para uma richtextbox.
